@@ -1,5 +1,5 @@
 # spamBot
-A simple quiz game about Python, made with Python.
+A simple Spam Bot made with Python.
 
 Made by [Taha Bisgin](https://tahabisginsoftware.com)
 
